@@ -15,7 +15,7 @@
    * [Pre-Requisitos](#pre-requisitos)
    * [O que é o NodeJS](#O-que-é-o-NodeJS)
    * [Tecnologias](#tecnologias)
-   * [autor](Aautor)
+   * [Autor](Autor)
 <!--te-->
 
 --------------------
